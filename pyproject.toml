@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cronschedule_lite"
-version = "1.0.0"
+version = "1.0.1"
 description = "Embedded Python task scheduler with human-readable schedules, cron support, and SQLite persistence"
 readme = "README.md"
 requires-python = ">=3.8"
