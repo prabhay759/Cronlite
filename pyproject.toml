@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "cronlite"
+name = "cronschedule_lite"
 version = "1.0.0"
 description = "Embedded Python task scheduler with human-readable schedules, cron support, and SQLite persistence"
 readme = "README.md"
